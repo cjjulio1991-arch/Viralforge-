@@ -65,17 +65,21 @@ for i in range(10):
 # ordenar y elegir top 3
 top = sorted(candidatos, key=lambda x: x[0], reverse=True)[:3]
 
-webhook_url = "https://hook.us2.make.com/8ty344qqh8rqd51qlc8cyjmx7wf7ixn7"
-
 # guardar y enviar cada post
 for i, (_, post) in enumerate(top):
-    with open(f"output/post_{i}.txt", "w") as f:
+
+    with open(f"output/post_{i}.txt", "w", encoding="utf-8") as f:
         f.write(post)
 
-    # enviar a Make
-    requests.post(webhook_url, json={
-        "post": post,
-        "id": i
-    })
+    try:
+        response = requests.post(webhook_url, json={
+            "post": post,
+            "id": i
+        })
 
-print("Top 3 posts generados y enviados 🚀") 
+        print(f"Enviado post {i} | status: {response.status_code}")
+
+    except Exception as e:
+        print(f"Error enviando post {i}: {e}")
+
+print("Top 3 posts generados y enviados 🚀")
