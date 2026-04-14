@@ -1,5 +1,6 @@
 from datetime import datetime
 import random
+import os
 
 hooks = [
     "Nadie te dice esto, pero es la verdad:",
@@ -17,7 +18,8 @@ messages = [
     "Tu entorno define tu futuro más de lo que crees."
 ]
 
-content = f"""
+def generate_post():
+    content = f"""
 🔥 VIRAL POST
 
 {random.choice(hooks)}
@@ -26,8 +28,17 @@ content = f"""
 
 📅 {datetime.now()}
 """
+    return content
 
-with open("output/viral.txt", "w") as f:
-    f.write(content)
+def generate_posts(n=10):
+    os.makedirs("output", exist_ok=True)
 
-print("Contenido viral generado")
+    posts = []
+    for i in range(n):
+        post = generate_post()
+        posts.append(post)
+
+        with open(f"output/viral_{i}.txt", "w") as f:
+            f.write(post)
+
+    return posts
