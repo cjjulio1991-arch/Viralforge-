@@ -1,6 +1,6 @@
 {
-  "status": "idle",
-  "last_run": null,
-  "cycles": 0,
-  "errors": 0
+    "status": "running",
+    "last_run": "2026-04-14T20:28:07.969064",
+    "cycles": 2,
+    "errors": 0
 }

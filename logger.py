@@ -1,7 +1,12 @@
-import os
 from datetime import datetime
+import os
 
-os.makedirs("output", exist_ok=True)
+os.makedirs("logs", exist_ok=True)
 
-with open("output/log.txt", "a") as f:
-    f.write(f"Run: {datetime.now()}\n")
+def log(msg):
+    line = f"{datetime.now().isoformat()} | {msg}"
+
+    print(line)
+
+    with open("logs/log.txt", "a") as f:
+        f.write(line + "\n")
