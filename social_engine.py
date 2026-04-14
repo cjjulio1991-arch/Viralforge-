@@ -1,5 +1,6 @@
 from datetime import datetime
 import random, os
+import requests
 
 hooks = [
     "Nadie te dice esto:",
@@ -45,7 +46,9 @@ def score(post):
 os.makedirs("output", exist_ok=True)
 
 candidatos = []
-for i in range(10):  # genera 10 opciones
+
+# generar 10 opciones
+for i in range(10):
     p = f"""
 🔥 {random.choice(hooks)}
 
@@ -59,19 +62,20 @@ for i in range(10):  # genera 10 opciones
 """
     candidatos.append((score(p), p))
 
-# ordena por score y guarda top 3
+# ordenar y elegir top 3
 top = sorted(candidatos, key=lambda x: x[0], reverse=True)[:3]
 
+webhook_url = "https://hook.us2.make.com/8ty344qqh8rqd51qlc8cyjmx7wf7ixn7"
+
+# guardar y enviar cada post
 for i, (_, post) in enumerate(top):
     with open(f"output/post_{i}.txt", "w") as f:
         f.write(post)
 
-print("Top 3 posts generados (ULTRA)")
+    # enviar a Make
+    requests.post(webhook_url, json={
+        "post": post,
+        "id": i
+    })
 
-import requests
-
-webhook_url = "https://hook.us2.make.com/8ty344qqh8rqd51qlc8cyjmx7wf7ixn7"
-
-requests.post(webhook_url, json={
-    "post": post
-})
+print("Top 3 posts generados y enviados 🚀") 
