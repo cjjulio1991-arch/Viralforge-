@@ -3,3 +3,8 @@ Traceback (most recent call last):
   File "/data/data/com.termux/files/home/ViralForge/main.py", line 1, in <module>
     from viral_engine import generate_posts
 ImportError: cannot import name 'generate_posts' from 'viral_engine' (/data/data/com.termux/files/home/ViralForge/viral_engine.py)
+Contenido viral generado
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/ViralForge/main.py", line 1, in <module>
+    from viral_engine import generate_posts
+ImportError: cannot import name 'generate_posts' from 'viral_engine' (/data/data/com.termux/files/home/ViralForge/viral_engine.py)
