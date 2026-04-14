@@ -1,22 +1,29 @@
+import time
 from viral_engine import generate_posts
 from optimize import rank_posts
 from publish import send_all
 from logger import log
 
-def main():
-    log("🚀 AGENTE INICIADO")
+INTERVALO = 300  # 5 minutos
 
-    # 1. generar contenido
+def run_cycle():
+    log("🚀 CICLO INICIADO")
+
     posts = generate_posts()
+    top = rank_posts(posts)
+    send_all(top)
 
-    # 2. optimizar / rankear
-    top_posts = rank_posts(posts)
+    log("✅ CICLO COMPLETADO")
 
-    # 3. publicar
-    send_all(top_posts)
+def main():
+    while True:
+        try:
+            run_cycle()
+            time.sleep(INTERVALO)
 
-    log("✅ PROCESO COMPLETADO")
-
+        except Exception as e:
+            log(f"❌ ERROR: {e}")
+            time.sleep(10)
 
 if __name__ == "__main__":
     main()
