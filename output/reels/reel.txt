@@ -2,7 +2,7 @@
 🎬 REEL SCRIPT
 
 HOOK:
-Escucha esto 5 segundos:
+Este error te está costando caro:
 
 CUERPO:
 Rodéate de gente que te obligue a crecer.
@@ -10,4 +10,4 @@ Rodéate de gente que te obligue a crecer.
 CTA:
 Guarda este video.
 
-📅 2026-04-14 22:16:26.702532
+📅 2026-04-14 22:20:01.526512
