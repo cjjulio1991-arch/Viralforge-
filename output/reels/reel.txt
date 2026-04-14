@@ -2,7 +2,7 @@
 🎬 REEL SCRIPT
 
 HOOK:
-Si haces esto, cambias todo:
+Escucha esto 5 segundos:
 
 CUERPO:
 Rodéate de gente que te obligue a crecer.
@@ -10,4 +10,4 @@ Rodéate de gente que te obligue a crecer.
 CTA:
 Compártelo con alguien.
 
-📅 2026-04-14 19:00:02.187690
+📅 2026-04-14 19:05:02.598501
