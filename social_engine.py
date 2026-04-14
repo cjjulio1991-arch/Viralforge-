@@ -67,3 +67,11 @@ for i, (_, post) in enumerate(top):
         f.write(post)
 
 print("Top 3 posts generados (ULTRA)")
+
+import requests
+
+webhook_url = "https://hook.us2.make.com/8ty344qqh8rqd51qlc8cyjmx7wf7ixn7"
+
+requests.post(webhook_url, json={
+    "post": post
+})
