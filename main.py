@@ -1,7 +1,14 @@
+import time
 import json
 import os
 from datetime import datetime
 
+from viral_engine import generate_posts
+from optimize import rank_posts
+from publish import send_all
+from logger import log
+
+INTERVALO = 300
 STATE_FILE = "state.json"
 
 
@@ -42,3 +49,36 @@ def update_state(status="running", error=False):
         state["errors"] += 1
 
     save_state(state)
+
+
+def run_cycle():
+    try:
+        update_state("running")
+
+        log("🚀 CICLO INICIADO")
+
+        posts = generate_posts(10)
+        log(f"Posts generados: {len(posts)}")
+
+        top = rank_posts(posts)
+        log(f"Top seleccionados: {len(top)}")
+
+        send_all(top)
+
+        update_state("running")
+        log("✅ CICLO COMPLETADO")
+
+    except Exception as e:
+        update_state("error", error=True)
+        log(f"❌ ERROR EN CICLO: {e}")
+
+
+def main():
+    while True:
+        run_cycle()
+        time.sleep(INTERVALO)
+
+
+if __name__ == "__main__":
+    main()
+
