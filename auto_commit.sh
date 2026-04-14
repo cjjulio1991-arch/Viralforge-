@@ -2,10 +2,11 @@
 
 cd ~/ViralForge
 
-python viral_engine.py
+python social_engine.py
+python reels_engine.py
 
 git add -A
 
-git commit -m "viral content $(date '+%H:%M:%S')" || echo "no changes"
+git commit -m "ULTRA batch $(date '+%Y-%m-%d %H:%M:%S')" || echo "no changes"
 
 git push
