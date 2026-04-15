@@ -2,7 +2,7 @@
 🎬 REEL SCRIPT
 
 HOOK:
-Escucha esto 5 segundos:
+Si haces esto, cambias todo:
 
 CUERPO:
 Haz lo difícil primero, siempre.
@@ -10,4 +10,4 @@ Haz lo difícil primero, siempre.
 CTA:
 Sígueme para más.
 
-📅 2026-04-15 04:00:01.497035
+📅 2026-04-15 04:05:01.379515
