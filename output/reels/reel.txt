@@ -2,7 +2,7 @@
 🎬 REEL SCRIPT
 
 HOOK:
-Este error te está costando caro:
+Si haces esto, cambias todo:
 
 CUERPO:
 Deja de esperar motivación. Empieza con disciplina.
@@ -10,4 +10,4 @@ Deja de esperar motivación. Empieza con disciplina.
 CTA:
 Sígueme para más.
 
-📅 2026-04-15 05:15:01.707327
+📅 2026-04-15 05:20:01.851434
