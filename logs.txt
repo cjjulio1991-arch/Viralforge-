@@ -318,3 +318,214 @@ Enviado post 1 | status: 200
 Enviado post 2 | status: 200
 2026-04-15T01:02:02.715153 | ✅ CICLO COMPLETADO
 2026-04-15T01:07:02.716793 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:07:03.974991 | ✅ CICLO COMPLETADO
+2026-04-15T01:12:03.975950 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:12:05.186658 | ✅ CICLO COMPLETADO
+2026-04-15T01:17:05.192614 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:17:06.447495 | ✅ CICLO COMPLETADO
+2026-04-15T01:22:06.449062 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:22:07.871678 | ✅ CICLO COMPLETADO
+2026-04-15T01:27:07.880466 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:27:08.897412 | ✅ CICLO COMPLETADO
+2026-04-15T01:32:08.899085 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:32:10.108543 | ✅ CICLO COMPLETADO
+2026-04-15T01:37:10.125269 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:37:14.809503 | ✅ CICLO COMPLETADO
+2026-04-15T01:42:14.832694 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:42:16.026648 | ✅ CICLO COMPLETADO
+2026-04-15T01:47:16.034615 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:47:17.375988 | ✅ CICLO COMPLETADO
+2026-04-15T01:52:17.381123 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:52:18.881058 | ✅ CICLO COMPLETADO
+2026-04-15T01:57:18.882175 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T01:57:21.991662 | ✅ CICLO COMPLETADO
+2026-04-15T02:02:21.993067 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:02:23.560074 | ✅ CICLO COMPLETADO
+2026-04-15T02:07:23.578762 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:07:24.822980 | ✅ CICLO COMPLETADO
+2026-04-15T02:12:24.829754 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:12:26.394133 | ✅ CICLO COMPLETADO
+2026-04-15T02:17:26.395011 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:17:27.554838 | ✅ CICLO COMPLETADO
+2026-04-15T02:22:27.555882 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:22:43.360223 | ✅ CICLO COMPLETADO
+2026-04-15T02:27:43.377973 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:27:44.443490 | ✅ CICLO COMPLETADO
+2026-04-15T02:32:44.459718 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:32:48.020620 | ✅ CICLO COMPLETADO
+2026-04-15T02:37:48.025266 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:37:55.755436 | ✅ CICLO COMPLETADO
+2026-04-15T02:42:55.770365 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:42:58.495691 | ✅ CICLO COMPLETADO
+2026-04-15T02:47:58.502028 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:47:59.993965 | ✅ CICLO COMPLETADO
+2026-04-15T02:53:00.002712 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:53:01.576417 | ✅ CICLO COMPLETADO
+2026-04-15T02:58:01.592190 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T02:58:02.951004 | ✅ CICLO COMPLETADO
+2026-04-15T03:03:02.954998 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T03:03:04.662300 | ✅ CICLO COMPLETADO
+2026-04-15T03:08:04.664531 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T03:08:23.692981 | ✅ CICLO COMPLETADO
+2026-04-15T03:13:23.695747 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T03:13:27.102759 | ✅ CICLO COMPLETADO
+2026-04-15T03:18:27.103964 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T03:18:27.890659 | ✅ CICLO COMPLETADO
+2026-04-15T03:23:27.891797 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T03:23:32.601761 | ✅ CICLO COMPLETADO
+2026-04-15T03:28:32.602996 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T03:28:38.221249 | ✅ CICLO COMPLETADO
+2026-04-15T03:33:38.224308 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T03:33:41.940645 | ✅ CICLO COMPLETADO
+2026-04-15T03:38:41.941422 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Error enviando post 1: ('Connection aborted.', ConnectionAbortedError(103, 'Software caused connection abort'))
+Error enviando post 2: HTTPSConnectionPool(host='hook.us2.make.com', port=443): Max retries exceeded with url: /8ty344qqh8rqd51qlc8cyjmx7wf7ixn7 (Caused by NameResolutionError("HTTPSConnection(host='hook.us2.make.com', port=443): Failed to resolve 'hook.us2.make.com' ([Errno 7] No address associated with hostname)"))
+2026-04-15T07:56:17.943732 | ✅ CICLO COMPLETADO
+2026-04-15T08:10:20.150049 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T08:10:22.139495 | ✅ CICLO COMPLETADO
+2026-04-15T08:29:19.823280 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T08:29:21.408492 | ✅ CICLO COMPLETADO
+2026-04-15T08:37:39.912149 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T08:37:41.587138 | ✅ CICLO COMPLETADO
+2026-04-15T08:51:01.658310 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T08:51:03.311012 | ✅ CICLO COMPLETADO
+2026-04-15T09:16:00.002042 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T09:16:01.788726 | ✅ CICLO COMPLETADO
+2026-04-15T09:40:03.592448 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T09:40:05.074167 | ✅ CICLO COMPLETADO
+2026-04-15T10:20:17.301882 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T10:20:18.594397 | ✅ CICLO COMPLETADO
+2026-04-15T10:29:01.551750 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T10:29:02.955507 | ✅ CICLO COMPLETADO
+2026-04-15T10:38:16.717164 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T10:38:18.130146 | ✅ CICLO COMPLETADO
+2026-04-15T10:43:38.823277 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T10:43:40.150644 | ✅ CICLO COMPLETADO
+2026-04-15T10:50:01.022559 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
+Enviado post 1 | status: 200
+Enviado post 2 | status: 200
+2026-04-15T10:50:02.258711 | ✅ CICLO COMPLETADO
+2026-04-15T11:22:11.450946 | 🚀 CICLO INICIADO
+Enviado post 0 | status: 200
