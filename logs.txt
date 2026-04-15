@@ -528,4 +528,251 @@ Enviado post 1 | status: 200
 Enviado post 2 | status: 200
 2026-04-15T10:50:02.258711 | ✅ CICLO COMPLETADO
 2026-04-15T11:22:11.450946 | 🚀 CICLO INICIADO
-Enviado post 0 | status: 200
+Enviado post 0 | status: 2002026-04-15T14:55:59.075254 | 🚀 CICLO INICIADO
+2026-04-15T14:55:59.076585 | Posts generados: 10
+2026-04-15T14:55:59.076702 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T14:56:03.289117 | ✅ CICLO COMPLETADO
+2026-04-15T15:10:31.170737 | 🚀 CICLO INICIADO
+2026-04-15T15:10:31.188074 | Posts generados: 10
+2026-04-15T15:10:31.189050 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T15:10:35.478087 | ✅ CICLO COMPLETADO
+2026-04-15T15:27:33.825179 | 🚀 CICLO INICIADO
+2026-04-15T15:27:33.827723 | Posts generados: 10
+2026-04-15T15:27:33.827946 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T15:27:38.004537 | ✅ CICLO COMPLETADO
+2026-04-15T16:04:14.851654 | 🚀 CICLO INICIADO
+2026-04-15T16:04:14.856535 | Posts generados: 10
+2026-04-15T16:04:14.857133 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T16:04:19.140613 | ✅ CICLO COMPLETADO
+2026-04-15T16:18:45.692262 | 🚀 CICLO INICIADO
+2026-04-15T16:18:45.695432 | Posts generados: 10
+2026-04-15T16:18:45.695830 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T16:18:50.125465 | ✅ CICLO COMPLETADO
+2026-04-15T16:36:06.507858 | 🚀 CICLO INICIADO
+2026-04-15T16:36:06.511767 | Posts generados: 10
+2026-04-15T16:36:06.512026 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T16:36:11.012504 | ✅ CICLO COMPLETADO
+2026-04-15T16:41:11.014177 | 🚀 CICLO INICIADO
+2026-04-15T16:41:11.016712 | Posts generados: 10
+2026-04-15T16:41:11.016944 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T16:41:15.265680 | ✅ CICLO COMPLETADO
+2026-04-15T16:47:21.907951 | 🚀 CICLO INICIADO
+2026-04-15T16:47:21.910302 | Posts generados: 10
+2026-04-15T16:47:21.910523 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T16:47:26.485133 | ✅ CICLO COMPLETADO
+2026-04-15T16:54:43.186191 | 🚀 CICLO INICIADO
+2026-04-15T16:54:43.202521 | Posts generados: 10
+2026-04-15T16:54:43.202958 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T16:54:47.687081 | ✅ CICLO COMPLETADO
+2026-04-15T17:01:18.142380 | 🚀 CICLO INICIADO
+2026-04-15T17:01:18.155151 | Posts generados: 10
+2026-04-15T17:01:18.155700 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:01:22.559634 | ✅ CICLO COMPLETADO
+2026-04-15T17:14:08.097627 | 🚀 CICLO INICIADO
+2026-04-15T17:14:08.111097 | Posts generados: 10
+2026-04-15T17:14:08.111995 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:14:12.565004 | ✅ CICLO COMPLETADO
+2026-04-15T17:19:12.574493 | 🚀 CICLO INICIADO
+2026-04-15T17:19:12.586479 | Posts generados: 10
+2026-04-15T17:19:12.586910 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:19:17.100838 | ✅ CICLO COMPLETADO
+2026-04-15T17:24:17.103456 | 🚀 CICLO INICIADO
+2026-04-15T17:24:17.109392 | Posts generados: 10
+2026-04-15T17:24:17.109569 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:24:21.331600 | ✅ CICLO COMPLETADO
+2026-04-15T17:29:21.359501 | 🚀 CICLO INICIADO
+2026-04-15T17:29:21.378251 | Posts generados: 10
+2026-04-15T17:29:21.379105 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:29:26.212526 | ✅ CICLO COMPLETADO
+2026-04-15T17:34:26.214303 | 🚀 CICLO INICIADO
+2026-04-15T17:34:26.217497 | Posts generados: 10
+2026-04-15T17:34:26.217769 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:34:30.091770 | ✅ CICLO COMPLETADO
+2026-04-15T17:39:30.094222 | 🚀 CICLO INICIADO
+2026-04-15T17:39:30.096975 | Posts generados: 10
+2026-04-15T17:39:30.097234 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:39:34.422243 | ✅ CICLO COMPLETADO
+2026-04-15T17:44:34.455980 | 🚀 CICLO INICIADO
+2026-04-15T17:44:34.465305 | Posts generados: 10
+2026-04-15T17:44:34.465779 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:44:39.225654 | ✅ CICLO COMPLETADO
+2026-04-15T17:49:39.227252 | 🚀 CICLO INICIADO
+2026-04-15T17:49:39.230098 | Posts generados: 10
+2026-04-15T17:49:39.230318 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:49:43.499960 | ✅ CICLO COMPLETADO
+2026-04-15T17:54:43.503033 | 🚀 CICLO INICIADO
+2026-04-15T17:54:43.507599 | Posts generados: 10
+2026-04-15T17:54:43.508151 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:54:47.585216 | ✅ CICLO COMPLETADO
+2026-04-15T17:59:47.613069 | 🚀 CICLO INICIADO
+2026-04-15T17:59:47.621829 | Posts generados: 10
+2026-04-15T17:59:47.622112 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T17:59:52.203435 | ✅ CICLO COMPLETADO
+2026-04-15T18:04:52.210655 | 🚀 CICLO INICIADO
+2026-04-15T18:04:52.219586 | Posts generados: 10
+2026-04-15T18:04:52.220224 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:04:56.510029 | ✅ CICLO COMPLETADO
+2026-04-15T18:09:56.537233 | 🚀 CICLO INICIADO
+2026-04-15T18:09:56.545758 | Posts generados: 10
+2026-04-15T18:09:56.546001 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:10:01.000725 | ✅ CICLO COMPLETADO
+2026-04-15T18:15:01.005018 | 🚀 CICLO INICIADO
+2026-04-15T18:15:01.021019 | Posts generados: 10
+2026-04-15T18:15:01.021602 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:15:05.378425 | ✅ CICLO COMPLETADO
+2026-04-15T18:20:06.845971 | 🚀 CICLO INICIADO
+2026-04-15T18:20:06.850587 | Posts generados: 10
+2026-04-15T18:20:06.850851 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:20:11.232731 | ✅ CICLO COMPLETADO
+2026-04-15T18:25:11.234216 | 🚀 CICLO INICIADO
+2026-04-15T18:25:11.236996 | Posts generados: 10
+2026-04-15T18:25:11.237236 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:25:15.600142 | ✅ CICLO COMPLETADO
+2026-04-15T18:30:15.667269 | 🚀 CICLO INICIADO
+2026-04-15T18:30:15.736810 | Posts generados: 10
+2026-04-15T18:30:15.737341 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:30:20.130387 | ✅ CICLO COMPLETADO
+2026-04-15T18:35:20.145002 | 🚀 CICLO INICIADO
+2026-04-15T18:35:20.151787 | Posts generados: 10
+2026-04-15T18:35:20.152506 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:35:24.531732 | ✅ CICLO COMPLETADO
+2026-04-15T18:40:24.533505 | 🚀 CICLO INICIADO
+2026-04-15T18:40:24.536137 | Posts generados: 10
+2026-04-15T18:40:24.536419 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:40:32.099118 | ✅ CICLO COMPLETADO
+2026-04-15T18:45:32.110947 | 🚀 CICLO INICIADO
+2026-04-15T18:45:32.116425 | Posts generados: 10
+2026-04-15T18:45:32.116897 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:45:36.622454 | ✅ CICLO COMPLETADO
+2026-04-15T18:50:36.623270 | 🚀 CICLO INICIADO
+2026-04-15T18:50:36.629833 | Posts generados: 10
+2026-04-15T18:50:36.629935 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:50:41.015793 | ✅ CICLO COMPLETADO
+2026-04-15T18:55:41.017465 | 🚀 CICLO INICIADO
+2026-04-15T18:55:41.020233 | Posts generados: 10
+2026-04-15T18:55:41.020507 | Top seleccionados: 3
+Enviado OK | 0
+Enviado OK | 1
+Enviado OK | 2
+Pendientes en cola: 0
+2026-04-15T18:55:45.451125 | ✅ CICLO COMPLETADO
