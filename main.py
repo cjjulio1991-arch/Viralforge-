@@ -1,84 +1,40 @@
-import time
-import json
 import os
-from datetime import datetime
+from moviepy import VideoFileClip, TextClip, CompositeVideoClip, AudioFileClip
 
-from viral_engine import generate_posts
-from optimize import rank_posts
-from publish import send_all
-from logger import log
+print("--- [ViralForge Engine: MODO PRO] ---")
 
-INTERVALO = 300
-STATE_FILE = "state.json"
+# Archivos que ya tienes en la carpeta
+video_input = "video_base.mp4"
+audio_input = "musica.mp3"
+fuente = "/system/fonts/Roboto-Regular.ttf"
 
+try:
+    # 1. Cargar video y cortarlo a 7 segundos para que sea rápido
+    print("Cargando video base...")
+    clip = VideoFileClip(video_input).subclipped(0, 7)
+    
+    # 2. Cargar audio y ajustarlo al tiempo del video
+    print("Sincronizando música...")
+    musica = AudioFileClip(audio_input).with_duration(clip.duration)
+    clip = clip.with_audio(musica)
 
-def load_state():
-    if not os.path.exists(STATE_FILE):
-        return {
-            "status": "idle",
-            "cycles": 0,
-            "errors": 0,
-            "last_run": None
-        }
+    # 3. Crear texto (Marca de agua)
+    print("Añadiendo texto...")
+    texto = TextClip(
+        text="HECHO CON VIRALFORGE\n@jof-hiel",
+        font_size=50,
+        color='white',
+        font=fuente if os.path.exists(fuente) else "Arial"
+    ).with_duration(7).with_position(('center', 800))
 
-    try:
-        with open(STATE_FILE, "r") as f:
-            return json.load(f)
-    except:
-        return {
-            "status": "error",
-            "cycles": 0,
-            "errors": 1,
-            "last_run": None
-        }
+    # 4. Mezclar todo
+    final = CompositeVideoClip([clip, texto])
 
+    # 5. Exportar
+    print("Renderizando Reel Final...")
+    final.write_videofile("REEL_TERMINADO.mp4", fps=24, codec="libx264", audio_codec="aac")
+    
+    print("\n[OK] ¡PROCESO EXITOSO! El archivo es: REEL_TERMINADO.mp4")
 
-def save_state(state):
-    with open(STATE_FILE, "w") as f:
-        json.dump(state, f, indent=4)
-
-
-def update_state(status="running", error=False):
-    state = load_state()
-
-    state["status"] = status
-    state["cycles"] += 1
-    state["last_run"] = str(datetime.now())
-
-    if error:
-        state["errors"] += 1
-
-    save_state(state)
-
-
-def run_cycle():
-    try:
-        update_state("running")
-
-        log("🚀 CICLO INICIADO")
-
-        posts = generate_posts(10)
-        log(f"Posts generados: {len(posts)}")
-
-        top = rank_posts(posts)
-        log(f"Top seleccionados: {len(top)}")
-
-        send_all(top)
-
-        update_state("running")
-        log("✅ CICLO COMPLETADO")
-
-    except Exception as e:
-        update_state("error", error=True)
-        log(f"❌ ERROR EN CICLO: {e}")
-
-
-def main():
-    while True:
-        run_cycle()
-        time.sleep(INTERVALO)
-
-
-if __name__ == "__main__":
-    main()
-
+except Exception as e:
+    print(f"\n[ERROR]: {e}")
