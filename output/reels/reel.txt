@@ -2,7 +2,7 @@
 🎬 REEL SCRIPT
 
 HOOK:
-Este error te está costando caro:
+Si haces esto, cambias todo:
 
 CUERPO:
 Haz lo difícil primero, siempre.
@@ -10,4 +10,4 @@ Haz lo difícil primero, siempre.
 CTA:
 Guarda este video.
 
-📅 2026-04-15 18:50:01.697457
+📅 2026-04-15 18:55:01.092299
